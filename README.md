@@ -1,4 +1,4 @@
-https://portfolio-anna-powaska.netlify.app/ 
+https://anna-powaska-portfolio.netlify.app
 
 
 
